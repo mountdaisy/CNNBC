@@ -1,2 +1,3 @@
-# CNNBC
-CNNBC
+# Using Convolutional Neural Networks to Classify Digital Breast Pathology Slides Following Neoadjuvant Chemotherapy
+
+Breast cancer is the most common cause of cancer related deaths for women across Europe. Mortality rates have declined in recent years due to more effective diagnosis and improved treatments. Neoadjuvant therapy has been shown to improve patient outcomes in certain cases. The RCB index is a key component in determining the effectiveness of neoadjuvant theory on patients. A primary task for pathologists in calculating the RCB index is determining the cellularity of a tumour. This task involves detailed examination of pathology slides and is burdensome and prone to error. This project sets out to determine if the use of machine learning, in particular convolution neural networks, could produce a model which would assist pathologists to determine the cellularity of a slide in a more automated and efficient manner.
