@@ -1,0 +1,2778 @@
+[INFO] loading network...
+224x224_102174-28593-34326-0-healthy
+Known: healthy Guess: healthy: 99.68%
+224x224_102174-32675-34570-0-healthy
+Known: healthy Guess: healthy: 87.90%
+224x224_102174-33927-33427-0-healthy
+Known: healthy Guess: cancer: 98.33%
+224x224_102174-34392-32398-0-healthy
+Known: healthy Guess: healthy: 95.70%
+224x224_102174-35838-5889-20-cancer
+Known: cancer Guess: cancer: 97.49%
+224x224_102174-36968-6228-40-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102174-37678-6314-20-cancer
+Known: cancer Guess: cancer: 99.81%
+224x224_102174-37829-4467-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-38286-6811-20-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102174-38541-4649-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-38554-4017-90-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102174-39239-4707-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-39248-8062-40-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102174-39379-5466-40-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102174-39418-8618-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-39722-3988-35-cancer
+Known: cancer Guess: cancer: 99.29%
+224x224_102174-39773-7402-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102174-39903-8079-40-cancer
+Known: cancer Guess: cancer: 99.92%
+224x224_102174-40314-7213-30-cancer
+Known: cancer Guess: cancer: 57.32%
+224x224_102174-40968-5729-35-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102174-41121-6655-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102174-41316-4061-25-cancer
+Known: cancer Guess: cancer: 99.56%
+224x224_102174-42055-4296-90-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102174-42904-6149-90-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102174-42947-5513-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-43165-4506-40-cancer
+Known: cancer Guess: cancer: 99.39%
+224x224_102174-43427-6790-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-44146-6118-97-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-44384-7062-25-cancer
+Known: cancer Guess: cancer: 99.74%
+224x224_102174-44757-4879-10-cancer
+Known: cancer Guess: cancer: 99.81%
+224x224_102174-44823-5566-25-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102174-44962-6207-98-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-45026-6850-60-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102174-45466-3150-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-45735-5850-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-45821-6490-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-45906-3691-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-46368-5649-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-46481-6268-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102174-46598-3615-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-47222-4357-98-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-47871-4287-75-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102174-48991-28220-0-healthy
+Known: healthy Guess: healthy: 86.04%
+224x224_102174-49570-28721-0-healthy
+Known: healthy Guess: cancer: 80.25%
+224x224_102174-50424-27490-0-healthy
+Known: healthy Guess: cancer: 71.63%
+224x224_102174-50440-26792-0-healthy
+Known: healthy Guess: healthy: 80.81%
+224x224_102175-11218-28113-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102175-11578-26398-35-cancer
+Known: cancer Guess: cancer: 99.68%
+224x224_102175-11819-27859-97-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102175-12153-26727-10-cancer
+Known: cancer Guess: cancer: 96.70%
+224x224_102175-12259-22379-20-cancer
+Known: cancer Guess: cancer: 96.22%
+224x224_102175-12572-29365-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102175-12635-25289-15-cancer
+Known: cancer Guess: cancer: 97.16%
+224x224_102175-12780-8415-0-healthy
+Known: healthy Guess: healthy: 98.22%
+224x224_102175-12786-16593-50-cancer
+Known: cancer Guess: cancer: 99.74%
+224x224_102175-13116-24531-70-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102175-13209-27469-50-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102175-13328-29796-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102175-13625-25142-50-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102175-13801-28153-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102175-13836-22512-15-cancer
+Known: cancer Guess: cancer: 96.32%
+224x224_102175-13854-26564-40-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102175-14311-25084-25-cancer
+Known: cancer Guess: cancer: 99.89%
+224x224_102175-14557-25906-15-cancer
+Known: cancer Guess: cancer: 99.35%
+224x224_102175-14610-15968-10-cancer
+Known: cancer Guess: cancer: 97.63%
+224x224_102175-14676-20079-50-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102175-15109-19247-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102175-15322-14641-10-cancer
+Known: cancer Guess: cancer: 93.83%
+224x224_102175-15341-25483-15-cancer
+Known: cancer Guess: cancer: 97.20%
+224x224_102175-15457-24693-50-cancer
+Known: cancer Guess: cancer: 97.81%
+224x224_102175-15509-12844-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102175-15612-17004-80-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102175-16023-7497-0-healthy
+Known: healthy Guess: healthy: 91.18%
+224x224_102175-16184-16876-50-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102175-16201-12792-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102175-16306-11856-50-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102175-16425-19912-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102175-16942-14697-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102175-17343-6130-0-healthy
+Known: healthy Guess: healthy: 82.90%
+224x224_102175-17359-12698-25-cancer
+Known: cancer Guess: cancer: 99.66%
+224x224_102175-17536-14010-10-cancer
+Known: cancer Guess: cancer: 98.99%
+224x224_102175-18133-18028-40-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102175-18150-12440-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102175-18351-6149-0-healthy
+Known: healthy Guess: cancer: 56.79%
+224x224_102175-18364-13792-20-cancer
+Known: cancer Guess: cancer: 94.35%
+224x224_102175-18651-15646-10-cancer
+Known: cancer Guess: healthy: 74.29%
+224x224_102175-18766-18050-60-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102175-18883-12817-30-cancer
+Known: cancer Guess: cancer: 99.89%
+224x224_102175-18920-9574-0-healthy
+Known: healthy Guess: healthy: 81.99%
+224x224_102175-19048-13870-20-cancer
+Known: cancer Guess: cancer: 99.02%
+224x224_102175-19088-8452-0-healthy
+Known: healthy Guess: healthy: 89.20%
+224x224_102175-21026-11936-40-cancer
+Known: cancer Guess: cancer: 81.57%
+224x224_102175-21802-9463-15-cancer
+Known: cancer Guess: cancer: 92.86%
+224x224_102175-21968-11787-30-cancer
+Known: cancer Guess: cancer: 64.70%
+224x224_102175-9496-7462-0-healthy
+Known: healthy Guess: healthy: 91.19%
+224x224_102176-11015-22125-0-healthy
+Known: healthy Guess: healthy: 99.44%
+224x224_102176-14956-15651-0-healthy
+Known: healthy Guess: healthy: 98.72%
+224x224_102176-15310-22984-10-cancer
+Known: cancer Guess: cancer: 91.32%
+224x224_102176-15625-24412-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102176-15690-23702-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102176-15980-22993-35-cancer
+Known: cancer Guess: cancer: 99.89%
+224x224_102176-16003-20222-40-cancer
+Known: cancer Guess: cancer: 92.33%
+224x224_102176-16191-16487-0-healthy
+Known: healthy Guess: healthy: 96.37%
+224x224_102176-16802-23735-15-cancer
+Known: cancer Guess: cancer: 99.82%
+224x224_102176-16848-22656-35-cancer
+Known: cancer Guess: cancer: 99.88%
+224x224_102176-17106-24389-70-cancer
+Known: cancer Guess: cancer: 99.78%
+224x224_102176-17503-23668-60-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102176-17778-20132-70-cancer
+Known: cancer Guess: cancer: 99.57%
+224x224_102176-17922-22336-20-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102176-18066-23684-75-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102176-18376-20336-50-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102176-18966-20744-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102176-28010-18264-0-healthy
+Known: healthy Guess: healthy: 65.29%
+224x224_102176-30133-17476-0-healthy
+Known: healthy Guess: healthy: 97.09%
+224x224_102176-33907-20502-20-cancer
+Known: cancer Guess: cancer: 99.88%
+224x224_102176-33976-19830-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102176-34521-20176-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102176-37557-27164-15-cancer
+Known: cancer Guess: cancer: 96.77%
+224x224_102176-37576-25477-20-cancer
+Known: cancer Guess: cancer: 98.02%
+224x224_102176-37771-22187-10-cancer
+Known: cancer Guess: cancer: 99.73%
+224x224_102176-38234-27031-15-cancer
+Known: cancer Guess: cancer: 99.82%
+224x224_102176-38529-23891-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102176-38557-21613-30-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102176-38588-25383-50-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102176-39124-24581-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102176-39686-27561-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102176-40937-26365-25-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102176-41178-28034-35-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102176-41292-26976-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102176-41367-18345-0-healthy
+Known: healthy Guess: healthy: 93.78%
+224x224_102176-41685-24187-0-healthy
+Known: healthy Guess: healthy: 82.64%
+224x224_102176-41710-25959-0-healthy
+Known: healthy Guess: healthy: 88.80%
+224x224_102176-41739-27857-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102176-42223-24022-0-healthy
+Known: healthy Guess: healthy: 78.72%
+224x224_102176-43023-28992-0-healthy
+Known: healthy Guess: cancer: 71.94%
+224x224_102176-43102-24334-0-healthy
+Known: healthy Guess: healthy: 81.55%
+224x224_102176-5912-25740-0-healthy
+Known: healthy Guess: healthy: 91.43%
+224x224_102177-20749-34359-0-healthy
+Known: healthy Guess: cancer: 74.44%
+224x224_102177-23491-33430-0-healthy
+Known: healthy Guess: cancer: 61.83%
+224x224_102177-23754-34032-0-healthy
+Known: healthy Guess: healthy: 47.65%
+224x224_102177-24097-29214-0-healthy
+Known: healthy Guess: healthy: 67.71%
+224x224_102177-24341-32838-0-healthy
+Known: healthy Guess: healthy: 51.20%
+224x224_102177-24695-32220-0-healthy
+Known: healthy Guess: cancer: 82.17%
+224x224_102177-25106-20720-15-cancer
+Known: cancer Guess: cancer: 93.53%
+224x224_102177-25304-19435-10-cancer
+Known: cancer Guess: cancer: 96.23%
+224x224_102177-25835-27400-0-healthy
+Known: healthy Guess: healthy: 47.19%
+224x224_102177-27685-27707-0-healthy
+Known: healthy Guess: healthy: 85.23%
+224x224_102177-28002-25558-0-healthy
+Known: healthy Guess: healthy: 88.77%
+224x224_102177-28186-33668-25-cancer
+Known: cancer Guess: cancer: 99.89%
+224x224_102177-28410-24051-0-healthy
+Known: healthy Guess: healthy: 84.29%
+224x224_102177-29233-33880-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102177-29395-13841-0-healthy
+Known: healthy Guess: healthy: 49.42%
+224x224_102177-29966-34806-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102177-29999-33291-10-cancer
+Known: cancer Guess: cancer: 73.25%
+224x224_102177-30588-22804-98-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102177-30633-29894-40-cancer
+Known: cancer Guess: cancer: 99.04%
+224x224_102177-31026-25713-80-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102177-31228-22917-97-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102177-31520-22097-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102177-31713-24466-60-cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102177-32051-17885-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102177-32207-14389-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102177-32431-18634-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102177-32581-20640-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102177-32793-27583-15-cancer
+Known: cancer Guess: cancer: 99.84%
+224x224_102177-32822-28787-60-cancer
+Known: cancer Guess: cancer: 99.75%
+224x224_102177-32887-13984-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102177-33245-22692-75-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102177-33266-30840-40-cancer
+Known: cancer Guess: cancer: 99.92%
+224x224_102177-33394-21034-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102177-33761-28273-5-cancer
+Known: cancer Guess: cancer: 94.78%
+224x224_102177-34268-29664-10-cancer
+Known: cancer Guess: cancer: 99.25%
+224x224_102177-34292-30495-15-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102177-34547-18525-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102177-34743-11372-10-cancer
+Known: cancer Guess: cancer: 99.36%
+224x224_102177-36022-15023-90-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102177-36280-10258-0-healthy
+Known: healthy Guess: healthy: 85.21%
+224x224_102177-36618-16125-60-cancer
+Known: cancer Guess: cancer: 99.58%
+224x224_102177-37326-16860-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102177-37408-14652-15-cancer
+Known: cancer Guess: cancer: 99.89%
+224x224_102178-10013-18056-0-healthy
+Known: healthy Guess: cancer: 74.64%
+224x224_102178-10084-15614-0-healthy
+Known: healthy Guess: healthy: 78.57%
+224x224_102178-10628-15800-0-healthy
+Known: healthy Guess: cancer: 83.71%
+224x224_102178-11144-28333-70-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102178-11156-27739-7-cancer
+Known: cancer Guess: cancer: 99.92%
+224x224_102178-11415-26543-10-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102178-11435-27092-99-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102178-11752-28354-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102178-11817-27827-90-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102178-11873-29089-40-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102178-11914-12066-0-healthy
+Known: healthy Guess: cancer: 52.66%
+224x224_102178-12064-27134-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102178-12161-25659-35-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102178-12193-11109-0-healthy
+Known: healthy Guess: cancer: 83.41%
+224x224_102178-12274-29709-65-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102178-12350-28366-40-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102178-12523-28998-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102178-12688-17916-40-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102178-13007-27204-15-cancer
+Known: cancer Guess: cancer: 99.43%
+224x224_102178-13209-29766-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102178-13541-20964-35-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102178-13774-26499-93-cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102178-13807-29180-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102178-13846-27852-95-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102178-13903-21998-35-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102178-14043-24407-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102178-14052-23760-40-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102178-14065-27070-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102178-14333-26543-98-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102178-14423-29220-35-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102178-14636-24344-5-cancer
+Known: cancer Guess: cancer: 94.22%
+224x224_102178-14656-23663-70-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102178-14910-26039-3-cancer
+Known: cancer Guess: cancer: 99.77%
+224x224_102178-14936-26692-99-cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102178-14989-28976-60-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102178-15016-27325-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102178-15495-32118-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102178-15512-26445-95-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102178-15529-31395-20-cancer
+Known: cancer Guess: cancer: 96.13%
+224x224_102178-16664-27444-20-cancer
+Known: cancer Guess: cancer: 97.40%
+224x224_102178-20017-31036-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102178-20133-31693-10-cancer
+Known: cancer Guess: cancer: 99.33%
+224x224_102178-20634-32842-40-cancer
+Known: cancer Guess: cancer: 99.76%
+224x224_102178-21355-32690-50-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102178-8560-17073-0-healthy
+Known: healthy Guess: cancer: 77.53%
+224x224_102178-8656-14165-0-healthy
+Known: healthy Guess: healthy: 94.09%
+224x224_102178-8747-16362-0-healthy
+Known: healthy Guess: cancer: 63.93%
+224x224_102178-9415-17167-0-healthy
+Known: healthy Guess: cancer: 88.54%
+224x224_102179-10742-23099-10-cancer
+Known: cancer Guess: cancer: 98.93%
+224x224_102179-10983-23354--cancer
+Known: cancer Guess: cancer: 98.17%
+224x224_102179-11687-26095-25-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102179-11926-26345--cancer
+Known: cancer Guess: cancer: 99.63%
+224x224_102179-12215-26942-20-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102179-12446-27189--cancer
+Known: cancer Guess: cancer: 99.67%
+224x224_102179-12578-22488-20-cancer
+Known: cancer Guess: cancer: 98.70%
+224x224_102179-12831-22732--cancer
+Known: cancer Guess: cancer: 97.77%
+224x224_102179-14765-25192-20-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102179-15011-25444--cancer
+Known: cancer Guess: cancer: 98.89%
+224x224_102179-15274-19314-5-cancer
+Known: cancer Guess: cancer: 98.26%
+224x224_102179-15517-19561--cancer
+Known: cancer Guess: cancer: 95.01%
+224x224_102179-15568-18286-3-cancer
+Known: cancer Guess: cancer: 97.96%
+224x224_102179-15743-23372-15-cancer
+Known: cancer Guess: cancer: 98.45%
+224x224_102179-15813-18528--cancer
+Known: cancer Guess: cancer: 98.57%
+224x224_102179-15991-23624--cancer
+Known: cancer Guess: cancer: 98.75%
+224x224_102179-16896-20134-5-cancer
+Known: cancer Guess: cancer: 97.71%
+224x224_102179-17142-20393--cancer
+Known: cancer Guess: cancer: 98.01%
+224x224_102179-17588-18923-5-cancer
+Known: cancer Guess: cancer: 96.47%
+224x224_102179-17814-19172--cancer
+Known: cancer Guess: cancer: 98.19%
+224x224_102179-17819-17787-3-cancer
+Known: cancer Guess: cancer: 97.92%
+224x224_102179-18054-18040--cancer
+Known: cancer Guess: cancer: 97.50%
+224x224_102179-18233-18840-5-cancer
+Known: cancer Guess: cancer: 99.17%
+224x224_102179-18308-19726-10-cancer
+Known: cancer Guess: cancer: 98.32%
+224x224_102179-18485-19092--cancer
+Known: cancer Guess: cancer: 98.85%
+224x224_102179-18557-19963--cancer
+Known: cancer Guess: cancer: 99.01%
+224x224_102179-18610-17517-3-cancer
+Known: cancer Guess: cancer: 99.54%
+224x224_102179-18849-17776--cancer
+Known: cancer Guess: cancer: 99.17%
+224x224_102179-19546-18444-5-cancer
+Known: cancer Guess: cancer: 98.96%
+224x224_102179-19787-18700--cancer
+Known: cancer Guess: cancer: 99.50%
+224x224_102179-20191-17641-5-cancer
+Known: cancer Guess: cancer: 99.81%
+224x224_102179-20425-17892--cancer
+Known: cancer Guess: cancer: 99.56%
+224x224_102179-22658-24749-20-cancer
+Known: cancer Guess: cancer: 99.73%
+224x224_102179-22908-25002--cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102179-9719-26037-30-cancer
+Known: cancer Guess: cancer: 99.89%
+224x224_102179-9970-26286--cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102180-17903-9957-0-healthy
+Known: healthy Guess: healthy: 99.75%
+224x224_102180-18319-11359-0-healthy
+Known: healthy Guess: healthy: 98.40%
+224x224_102180-18334-13666-0-healthy
+Known: healthy Guess: healthy: 87.51%
+224x224_102180-18432-12929-0-healthy
+Known: healthy Guess: healthy: 99.37%
+224x224_102180-18849-9709-0-healthy
+Known: healthy Guess: healthy: 97.34%
+224x224_102180-19494-10905-0-healthy
+Known: healthy Guess: healthy: 99.05%
+224x224_102180-19506-9540-0-healthy
+Known: healthy Guess: healthy: 94.88%
+224x224_102180-20161-12994-0-healthy
+Known: healthy Guess: healthy: 54.37%
+224x224_102180-20984-9399-0-healthy
+Known: healthy Guess: healthy: 99.14%
+224x224_102180-24439-16047-70-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102180-24781-14591-60-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102180-24828-13737-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102180-25412-16993-30-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102180-26118-17759-20-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102180-26219-19149-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102180-26765-18592-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102180-28591-17685-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102180-30076-19611-20-cancer
+Known: cancer Guess: cancer: 98.04%
+224x224_102180-30097-10856-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102180-30489-17536-25-cancer
+Known: cancer Guess: cancer: 97.19%
+224x224_102180-30767-14454-80-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102180-30839-19120-15-cancer
+Known: cancer Guess: cancer: 99.04%
+224x224_102180-30854-18252-10-cancer
+Known: cancer Guess: cancer: 97.70%
+224x224_102180-31343-12681-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102180-31473-14327-98-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102180-31649-17467-20-cancer
+Known: cancer Guess: cancer: 97.90%
+224x224_102180-32368-13850-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102180-32668-13221-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102180-33022-8395-80-cancer
+Known: cancer Guess: cancer: 99.70%
+224x224_102180-33151-7656-80-cancer
+Known: cancer Guess: cancer: 99.81%
+224x224_102180-33846-8039-75-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102180-35403-8822-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102180-36434-8384-50-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102180-36924-9214-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102180-37087-13334-85-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102180-37293-16264-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102180-37833-12924-60-cancer
+Known: cancer Guess: cancer: 99.83%
+224x224_102180-37877-13715-60-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102181-12260-30888-10-cancer
+Known: cancer Guess: cancer: 93.76%
+224x224_102181-13435-32319-90-cancer
+Known: cancer Guess: cancer: 99.27%
+224x224_102181-13820-26884-50-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102181-16358-24654-65-cancer
+Known: cancer Guess: cancer: 99.87%
+224x224_102181-21718-27078-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102181-22318-26241-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102181-22978-26223-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102181-23834-27149-15-cancer
+Known: cancer Guess: cancer: 99.85%
+224x224_102181-25737-25810-10-cancer
+Known: cancer Guess: cancer: 98.67%
+224x224_102181-25911-26488-15-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102181-27315-26874-40-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102181-27468-26085-10-cancer
+Known: cancer Guess: cancer: 99.18%
+224x224_102181-27891-18913-0-healthy
+Known: healthy Guess: cancer: 89.97%
+224x224_102181-30194-22076-30-cancer
+Known: cancer Guess: cancer: 99.79%
+224x224_102181-30873-21244-25-cancer
+Known: cancer Guess: cancer: 96.74%
+224x224_102181-31516-20002-80-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102181-33415-21235-25-cancer
+Known: cancer Guess: cancer: 97.32%
+224x224_102181-33680-20348-15-cancer
+Known: cancer Guess: cancer: 99.08%
+224x224_102181-35754-24546-10-cancer
+Known: cancer Guess: healthy: 68.88%
+224x224_102181-35922-21332-25-cancer
+Known: cancer Guess: cancer: 98.38%
+224x224_102181-38075-18622-90-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102181-38156-19345-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102181-38742-18506-90-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102181-38837-19616-50-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102181-39268-19041-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102181-39470-19648-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102181-39910-18928-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102181-41067-28251-0-cancer
+Known: cancer Guess: healthy: 51.96%
+224x224_102181-41939-19864-0-healthy
+Known: healthy Guess: cancer: 80.66%
+224x224_102181-43044-21587-40-cancer
+Known: cancer Guess: cancer: 99.70%
+224x224_102181-44796-19710-85-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102181-45688-19522-60-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102181-4783-22412-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102181-50163-22954-0-healthy
+Known: healthy Guess: healthy: 72.84%
+224x224_102181-5464-29012-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102181-6128-29020-70-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102181-8296-32792-50-cancer
+Known: cancer Guess: cancer: 90.34%
+224x224_102181-9030-33336-50-cancer
+Known: cancer Guess: cancer: 91.76%
+224x224_102181-9030-33906-50-cancer
+Known: cancer Guess: cancer: 99.33%
+224x224_102181-9837-33330-20-cancer
+Known: cancer Guess: cancer: 99.79%
+224x224_102182-10251-25840-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102182-10325-26625-35%)-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102182-10486-23952-30-cancer
+Known: cancer Guess: cancer: 99.86%
+224x224_102182-11083-29978-0-healthy
+Known: healthy Guess: cancer: 74.91%
+224x224_102182-11248-25641-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102182-11277-26665-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102182-11748-30845-0-healthy
+Known: healthy Guess: cancer: 73.12%
+224x224_102182-11791-32328-0-healthy
+Known: healthy Guess: cancer: 79.50%
+224x224_102182-12216-27406-50-cancer
+Known: cancer Guess: cancer: 99.92%
+224x224_102182-13540-23202-15-cancer
+Known: cancer Guess: cancer: 98.85%
+224x224_102182-14270-22189-20-cancer
+Known: cancer Guess: cancer: 99.21%
+224x224_102182-15503-17591-0-healthy
+Known: healthy Guess: healthy: 74.86%
+224x224_102182-15570-21279-40-cancer
+Known: cancer Guess: cancer: 98.44%
+224x224_102182-16019-32668-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102182-17512-20005-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102182-19725-20334-60-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102182-20287-20846-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102182-2038-28969-0-healthy
+Known: healthy Guess: healthy: 66.33%
+224x224_102182-30232-25303-80-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102182-33062-26891-0-healthy
+Known: healthy Guess: cancer: 59.69%
+224x224_102182-36122-25630-60-cancer
+Known: cancer Guess: cancer: 99.58%
+224x224_102182-36936-25304-60-cancer
+Known: cancer Guess: cancer: 99.13%
+224x224_102182-38694-35725-75-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102182-38878-35010-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102182-4037-16812-90-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102182-5069-29352-0-healthy
+Known: healthy Guess: healthy: 78.42%
+224x224_102182-5460-25082-60-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102182-5587-23063-50-cancer
+Known: cancer Guess: cancer: 99.89%
+224x224_102182-6059-22198-15-cancer
+Known: cancer Guess: cancer: 98.61%
+224x224_102182-6973-22123-30-cancer
+Known: cancer Guess: cancer: 99.34%
+224x224_102182-7273-11536-0-healthy
+Known: healthy Guess: cancer: 74.87%
+224x224_102182-8014-18954-35-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102182-8552-24653-20-cancer
+Known: cancer Guess: cancer: 99.50%
+224x224_102182-8633-26400-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102182-9129-14683-85-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102182-9475-26817-20-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102182-9653-24569-20-cancer
+Known: cancer Guess: cancer: 99.67%
+224x224_102182-9759-15754-90-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102183-10194-16908-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-10436-13019-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-10448-18093-50-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102183-10493-14423-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-10510-15150-15-cancer
+Known: cancer Guess: cancer: 99.64%
+224x224_102183-10552-13568-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-10635-16112-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-11074-17835-20-cancer
+Known: cancer Guess: cancer: 99.57%
+224x224_102183-11084-14222-15-cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102183-11156-13580-10-cancer
+Known: cancer Guess: cancer: 99.92%
+224x224_102183-11860-31314-0-healthy
+Known: healthy Guess: healthy: 88.70%
+224x224_102183-12812-29967-0-healthy
+Known: healthy Guess: healthy: 99.84%
+224x224_102183-13276-33342-0-healthy
+Known: healthy Guess: healthy: 97.79%
+224x224_102183-13362-30583-0-healthy
+Known: healthy Guess: healthy: 96.83%
+224x224_102183-14578-33605-0-healthy
+Known: healthy Guess: healthy: 90.03%
+224x224_102183-1714-26031-0-healthy
+Known: healthy Guess: healthy: 99.32%
+224x224_102183-28080-32666-0-healthy
+Known: healthy Guess: healthy: 99.16%
+224x224_102183-28634-33584-0-healthy
+Known: healthy Guess: healthy: 98.18%
+224x224_102183-29261-29521-0-healthy
+Known: healthy Guess: healthy: 91.45%
+224x224_102183-30162-32899-0-healthy
+Known: healthy Guess: healthy: 86.58%
+224x224_102183-7423-13062-50-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102183-7550-13982-30-cancer
+Known: cancer Guess: cancer: 99.87%
+224x224_102183-7680-12451-30-cancer
+Known: cancer Guess: cancer: 99.35%
+224x224_102183-7715-16450-40-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102183-7973-13370-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-8030-17329-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-8112-18122-45-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102183-8219-12823-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-8274-14010-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-8375-12272-20-cancer
+Known: cancer Guess: cancer: 99.86%
+224x224_102183-8381-14553-15-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102183-8464-16484-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-8663-15353-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-8688-17401-97-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-8944-12038-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102183-8993-18223-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-9061-14269-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-9285-13643-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-9469-16948-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-9567-15225-35-cancer
+Known: cancer Guess: cancer: 99.78%
+224x224_102183-9576-12652-20-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102183-9704-18201-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102183-9794-14442-97-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102183-9943-15894-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102184-27980-18843-0-healthy
+Known: healthy Guess: healthy: 92.81%
+224x224_102184-28566-18121-0-healthy
+Known: healthy Guess: healthy: 98.01%
+224x224_102184-29236-17613-0-healthy
+Known: healthy Guess: healthy: 99.72%
+224x224_102184-29920-17783-0-healthy
+Known: healthy Guess: healthy: 98.69%
+224x224_102184-30296-18491-0-healthy
+Known: healthy Guess: healthy: 98.96%
+224x224_102184-30663-10928-0-healthy
+Known: healthy Guess: healthy: 87.33%
+224x224_102184-30975-18726-0-healthy
+Known: healthy Guess: healthy: 94.46%
+224x224_102184-31836-12347-0-healthy
+Known: healthy Guess: healthy: 75.01%
+224x224_102184-33322-18111-0-healthy
+Known: healthy Guess: healthy: 81.88%
+224x224_102184-34070-18259-0-healthy
+Known: healthy Guess: healthy: 71.87%
+224x224_102184-34222-14176-0-healthy
+Known: healthy Guess: healthy: 92.73%
+224x224_102184-35268-16998-0-healthy
+Known: healthy Guess: cancer: 99.99%
+224x224_102184-35280-14737-0-healthy
+Known: healthy Guess: healthy: 90.88%
+224x224_102184-36152-15279-0-healthy
+Known: healthy Guess: healthy: 77.80%
+224x224_102184-36950-14986-0-healthy
+Known: healthy Guess: cancer: 61.05%
+224x224_102184-36960-15704-0-healthy
+Known: healthy Guess: cancer: 99.57%
+224x224_102184-38529-9425-0-healthy
+Known: healthy Guess: healthy: 92.42%
+224x224_102184-38623-10487-0-healthy
+Known: healthy Guess: healthy: 56.99%
+224x224_102184-38848-11416-0-healthy
+Known: healthy Guess: cancer: 56.11%
+224x224_102184-39147-8835-0-healthy
+Known: healthy Guess: healthy: 97.82%
+224x224_102184-39379-9548-0-healthy
+Known: healthy Guess: healthy: 67.01%
+224x224_102184-39938-15588-50-cancer
+Known: cancer Guess: cancer: 99.92%
+224x224_102184-40136-13608-8-cancer
+Known: cancer Guess: cancer: 97.07%
+224x224_102184-40355-14326-90-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102184-40907-16677-60-cancer
+Known: cancer Guess: cancer: 99.87%
+224x224_102184-41223-18635-80-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102184-41841-18363-40-cancer
+Known: cancer Guess: cancer: 99.47%
+224x224_102184-42362-19351-15-cancer
+Known: cancer Guess: cancer: 99.08%
+224x224_102184-42379-16976-50-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102184-42533-18652-92-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102184-42666-15520-80-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102184-42980-17389-20-cancer
+Known: cancer Guess: cancer: 98.88%
+224x224_102184-43067-18701-20-cancer
+Known: cancer Guess: cancer: 99.68%
+224x224_102184-43175-12881-15-cancer
+Known: cancer Guess: cancer: 99.63%
+224x224_102184-43216-16757-40-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102184-43644-15244-5-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102184-43668-13823-40-cancer
+Known: cancer Guess: cancer: 99.86%
+224x224_102184-43669-14582-10-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102184-43806-16780-60-cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102184-43862-19730-35-cancer
+Known: cancer Guess: cancer: 98.58%
+224x224_102184-43894-9516-0-healthy
+Known: healthy Guess: cancer: 63.75%
+224x224_102184-44073-16057-75-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102184-44128-8789-0-healthy
+Known: healthy Guess: healthy: 89.66%
+224x224_102184-44459-17804-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102184-44742-19309-30-cancer
+Known: cancer Guess: cancer: 99.64%
+224x224_102184-44892-9266-0-healthy
+Known: healthy Guess: healthy: 86.37%
+224x224_102184-44954-19942-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102184-45167-10252-0-healthy
+Known: healthy Guess: healthy: 95.37%
+224x224_102184-45518-20434-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102184-45588-17173-97-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102184-45655-18532-90-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102184-45670-17841-40-cancer
+Known: cancer Guess: cancer: 95.82%
+224x224_102184-46179-20258-90-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102184-46282-17075-40-cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102184-46313-19011-60-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102184-46611-18067-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102184-47327-17368-60-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102184-47369-18006-30-cancer
+Known: cancer Guess: cancer: 99.86%
+224x224_102184-47573-19241-90-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102184-48303-19267-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-10533-26535-97-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-10584-25839-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-10705-17248-25-cancer
+Known: cancer Guess: cancer: 99.71%
+224x224_102185-11494-9628-30-cancer
+Known: cancer Guess: cancer: 99.81%
+224x224_102185-12405-13350-5-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102185-13659-8337-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102185-14523-5100-0-healthy
+Known: healthy Guess: cancer: 89.95%
+224x224_102185-16263-7957-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-16300-7061-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-16928-7413-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-19990-20247-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-20613-14943-10-cancer
+Known: cancer Guess: cancer: 99.76%
+224x224_102185-22817-13262-15-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102185-24652-12802-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-25891-15764-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102185-27104-10984-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-27246-15840-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-27814-15067-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-28486-15683-45-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102185-29262-15419-80-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102185-29686-7214-0-healthy
+Known: healthy Guess: healthy: 69.76%
+224x224_102185-32100-7637-0-healthy
+Known: healthy Guess: cancer: 68.25%
+224x224_102185-33998-23255-0-healthy
+Known: healthy Guess: healthy: 75.70%
+224x224_102185-35313-23949-0-healthy
+Known: healthy Guess: cancer: 99.90%
+224x224_102185-36551-23976-0-healthy
+Known: healthy Guess: healthy: 89.33%
+224x224_102185-37245-27285-0-healthy
+Known: healthy Guess: healthy: 85.82%
+224x224_102185-41957-19116-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-42553-19029-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-43530-13106-40-cancer
+Known: cancer Guess: cancer: 99.22%
+224x224_102185-44021-19469-15-cancer
+Known: cancer Guess: cancer: 98.56%
+224x224_102185-44169-18641-65-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102185-44389-14033-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-44498-10660-20-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102185-44782-18524-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-45026-13617-25-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-46066-13299-20-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102185-5104-31388-0-healthy
+Known: healthy Guess: healthy: 89.34%
+224x224_102185-5871-30783-0-healthy
+Known: healthy Guess: healthy: 90.49%
+224x224_102185-6862-31178-0-healthy
+Known: healthy Guess: healthy: 99.20%
+224x224_102185-6923-29507-0-healthy
+Known: healthy Guess: healthy: 96.93%
+224x224_102185-7126-27542-0-healthy
+Known: healthy Guess: healthy: 95.52%
+224x224_102185-7521-29551-0-healthy
+Known: healthy Guess: healthy: 95.37%
+224x224_102185-7600-30876-0-healthy
+Known: healthy Guess: healthy: 98.53%
+224x224_102185-7830-20322-0-healthy
+Known: healthy Guess: healthy: 99.07%
+224x224_102185-9773-16251-30-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102187-15739-12681-0-healthy
+Known: healthy Guess: healthy: 99.71%
+224x224_102187-16881-15795-0-healthy
+Known: healthy Guess: healthy: 97.06%
+224x224_102187-18169-16913-0-healthy
+Known: healthy Guess: healthy: 83.32%
+224x224_102187-18605-17607-0-healthy
+Known: healthy Guess: healthy: 94.68%
+224x224_102187-19119-16661-0-healthy
+Known: healthy Guess: healthy: 75.93%
+224x224_102187-19443-17435-0-healthy
+Known: healthy Guess: healthy: 85.58%
+224x224_102187-21248-8943-0-healthy
+Known: healthy Guess: healthy: 70.81%
+224x224_102187-21487-8268-0-healthy
+Known: healthy Guess: healthy: 98.06%
+224x224_102187-22549-28658-0-healthy
+Known: healthy Guess: healthy: 96.64%
+224x224_102187-23237-7800-0-healthy
+Known: healthy Guess: healthy: 94.25%
+224x224_102187-23264-9703-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102187-23319-27798-0-healthy
+Known: healthy Guess: healthy: 99.71%
+224x224_102187-23572-11386-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-23675-28756-0-healthy
+Known: healthy Guess: healthy: 96.47%
+224x224_102187-23885-9015-35-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-23911-12044-15-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102187-23932-27974-0-healthy
+Known: healthy Guess: healthy: 55.99%
+224x224_102187-24023-10487-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-24451-9449-35-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-24561-8766-20-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-24602-10345-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-24749-16413-20-cancer
+Known: cancer Guess: cancer: 99.76%
+224x224_102187-25255-9674-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-25723-11116-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-26061-15616-35-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102187-26433-10457-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-26525-11762-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-27043-10431-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-27130-11362-25-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102187-27290-9583-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102187-29901-18000-35-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-30605-18432-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-31142-18956-35-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-31668-12046-25-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102187-31738-18362-35-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102187-32449-12336-25-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102187-32649-13880-20-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102187-33144-19666-0-healthy
+Known: healthy Guess: healthy: 98.47%
+224x224_102187-33749-18899-0-healthy
+Known: healthy Guess: healthy: 90.19%
+224x224_102187-33968-14751-40-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102188-11590-10560-40-cancer
+Known: cancer Guess: cancer: 99.76%
+224x224_102188-12672-17384-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102188-12684-12653-45-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102188-13114-18102-35-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102188-13196-10972-25-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102188-13308-10296-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102188-14309-11481-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102188-14530-8416-35-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102188-15120-6831-25-cancer
+Known: cancer Guess: cancer: 98.88%
+224x224_102188-15153-10782-35-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102188-15287-8290-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102188-16513-7800-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102188-17150-11087-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102188-17948-11734-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102188-18055-7039-30-cancer
+Known: cancer Guess: cancer: 93.62%
+224x224_102188-18068-7857-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102188-18990-7327-50-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102188-19876-10022-35-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102188-19967-8861-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102188-19997-7873-40-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102188-21034-8736-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102188-21990-16902-40-cancer
+Known: cancer Guess: cancer: 99.87%
+224x224_102188-22618-16863-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102188-22696-10362-30-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102188-24059-10793-25-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102188-24280-7963-30-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102188-24426-15184-35-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102188-25422-14406-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102188-25649-5013-0-healthy
+Known: healthy Guess: healthy: 96.08%
+224x224_102188-25903-5281--healthy
+Known: healthy Guess: cancer: 83.57%
+224x224_102188-26096-3472-0-healthy
+Known: healthy Guess: healthy: 96.34%
+224x224_102188-27483-3375-0-healthy
+Known: healthy Guess: healthy: 93.44%
+224x224_102188-27522-16321-0-healthy
+Known: healthy Guess: healthy: 96.94%
+224x224_102188-27806-8932-0-healthy
+Known: healthy Guess: cancer: 93.98%
+224x224_102188-28592-7270-0-healthy
+Known: healthy Guess: cancer: 91.31%
+224x224_102188-28723-3632-0-healthy
+Known: healthy Guess: healthy: 93.88%
+224x224_102188-29029-16824-0-healthy
+Known: healthy Guess: healthy: 98.78%
+224x224_102188-29141-6164-0-healthy
+Known: healthy Guess: cancer: 55.26%
+224x224_102188-30581-18903-0-healthy
+Known: healthy Guess: healthy: 98.71%
+224x224_102188-5579-14113-0-healthy
+Known: healthy Guess: healthy: 99.80%
+224x224_102188-6214-14535-0-healthy
+Known: healthy Guess: healthy: 98.14%
+224x224_102188-6752-13488-0-healthy
+Known: healthy Guess: healthy: 97.58%
+224x224_102189-12089-6697-25-cancer
+Known: cancer Guess: cancer: 78.84%
+224x224_102189-13252-8322-15-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102189-14220-8582-15-cancer
+Known: cancer Guess: cancer: 99.20%
+224x224_102189-17360-9096-20-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102189-18832-8202-15-cancer
+Known: cancer Guess: cancer: 99.80%
+224x224_102189-19214-11431-7-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102189-20125-7795-15-cancer
+Known: cancer Guess: cancer: 99.47%
+224x224_102189-21480-9224-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102189-24000-24042-15-cancer
+Known: cancer Guess: cancer: 99.89%
+224x224_102189-24814-22936-15-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102189-25593-23591-15-cancer
+Known: cancer Guess: cancer: 99.78%
+224x224_102189-25776-24908-35-cancer
+Known: cancer Guess: cancer: 99.23%
+224x224_102189-26249-21940-15-cancer
+Known: cancer Guess: cancer: 98.88%
+224x224_102189-26491-24904-10-cancer
+Known: cancer Guess: cancer: 99.58%
+224x224_102189-26637-22757-10-cancer
+Known: cancer Guess: cancer: 94.76%
+224x224_102189-27767-25142-10-cancer
+Known: cancer Guess: cancer: 96.61%
+224x224_102189-28962-27108-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102189-36449-37017-20-cancer
+Known: cancer Guess: cancer: 92.36%
+224x224_102189-37334-34875-15-cancer
+Known: cancer Guess: cancer: 99.69%
+224x224_102189-38231-36267-10-cancer
+Known: cancer Guess: cancer: 77.27%
+224x224_102190-29978-32435-15-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102190-30229-32690--cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102190-30297-31563-35-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102190-30549-31816--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-30644-30339-20-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102190-30895-30602--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-31369-29998-30-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102190-31488-31932-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-31617-30254--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-31722-34620-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-31725-32190--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-31966-34870--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-32083-36349-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-32289-32345-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-32333-36622--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-32538-32599--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-32540-29652-30-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102190-32655-33079-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-32807-29938--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-32899-33328--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-32950-36458-90-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102190-33203-36712--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102190-33332-31447-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-33580-31704--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-33947-30600-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-33959-31356-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-33960-36131-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34026-32784-75-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34191-30852--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34203-36383--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34205-31606--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34280-33037--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34449-34231-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34523-32095-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34661-35031-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34694-34473--cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102190-34728-36713-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34732-30034-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34773-32350--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34882-27770-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34909-35278--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34975-30292--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-34983-36964--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102190-35112-30920-35-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-35121-28024--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102190-35363-31170--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-35678-28095-15-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102190-35732-36303-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-35917-28347--cancer
+Known: cancer Guess: cancer: 99.25%
+224x224_102190-35967-36554--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102190-36085-32480-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-36327-32730--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-36463-29302-10-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102190-36715-29553--cancer
+Known: cancer Guess: cancer: 99.86%
+224x224_102190-37046-33080-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-37233-33936-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-37293-33328--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-37406-29379-15-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102190-37484-34185--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-37643-29623--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-37656-31553-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-37908-31797--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-37946-30588-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-38201-30842--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102190-38259-33989-35-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102190-38260-32017-65-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-38503-32267--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-38507-34242--cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102190-38559-33225-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102190-38809-33476--cancer
+Known: cancer Guess: cancer: 99.83%
+224x224_102191-28671-27646-25-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102191-29603-27847-20-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102191-30367-27568-20-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102191-31798-27571-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-32975-24906-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-33119-26583-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102191-33969-28233-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102191-34236-29301-35-cancer
+Known: cancer Guess: cancer: 99.81%
+224x224_102191-34286-26720-80-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102191-34565-5907-25-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102191-34905-6671-20-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-35271-7451-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-35496-24406-70-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102191-35508-26740-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102191-35523-22506-80-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102191-35556-28585-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-35586-8151-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-35797-6846-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-35878-27552-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102191-35949-29871-35-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102191-36379-25792-50-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102191-36379-7694-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-36523-28181-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-36547-23633-80-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102191-36795-25013-50-cancer
+Known: cancer Guess: cancer: 99.86%
+224x224_102191-37056-9010-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-37334-21599-80-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102191-37396-25916-85-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102191-37523-6988-30-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102191-37662-31473-50-cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102191-38309-30222-15-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102191-38362-28654-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-38448-8114-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-39107-7696-20-cancer
+Known: cancer Guess: cancer: 99.78%
+224x224_102191-39320-28911-20-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102191-40176-24641-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102191-40396-25530-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102191-40486-28320-10-cancer
+Known: cancer Guess: cancer: 99.75%
+224x224_102191-41289-25340-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102191-41674-19830-10-cancer
+Known: cancer Guess: cancer: 99.69%
+224x224_102191-41706-13402-0-healthy
+Known: healthy Guess: cancer: 94.25%
+224x224_102192-15524-17965--cancer
+Known: cancer Guess: cancer: 98.88%
+224x224_102192-15750-16061-30-cancer
+Known: cancer Guess: cancer: 99.75%
+224x224_102192-16000-16311--cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102192-16370-16807-20-cancer
+Known: cancer Guess: cancer: 99.89%
+224x224_102192-16626-17057--cancer
+Known: cancer Guess: cancer: 99.83%
+224x224_102192-17920-7882-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-18168-8139--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-19366-8516-50-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102192-19620-8769--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-19930-9163-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-20114-10202-25-cancer
+Known: cancer Guess: cancer: 99.88%
+224x224_102192-20180-9419--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102192-20368-10459--cancer
+Known: cancer Guess: cancer: 99.87%
+224x224_102192-20690-13407-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-20909-12109-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102192-20944-13643--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-21160-12365--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-21370-9373-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102192-21612-9599--cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102192-21853-11415-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-22038-13630-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-22065-10616-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102192-22102-11667--cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102192-22284-13887--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102192-22322-10863--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-22484-12996-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-22709-11810-75-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-22732-13249--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-22948-11070-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-22958-12067--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-23040-10002-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102192-23202-11317--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-23236-12488-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-23292-10259--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102192-23410-11578-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-23480-12735--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-23525-10811-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-23654-11827--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102192-23687-10122-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-23698-13192-30-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102192-23776-11065--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-23797-20116-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-23942-10387--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-23952-13453--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102192-23954-12327-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102192-24044-20362--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-24232-12581--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-24289-18772-20-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102192-24477-19879-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-24538-19023--cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102192-24614-16776-65-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-24730-20135--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102192-24866-17022--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102192-26768-13026-30-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102192-27012-13279--cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102192-27556-13502-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-27800-13749--cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102192-31921-12085-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-32164-12339--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102192-32814-13377-15-cancer
+Known: cancer Guess: cancer: 99.92%
+224x224_102192-33027-11142-35-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102192-33064-13637--cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102192-33276-11391--cancer
+Known: cancer Guess: cancer: 99.53%
+224x224_102192-33739-10506-45-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102192-33990-10760--cancer
+Known: cancer Guess: cancer: 99.59%
+224x224_102192-8101-10779-20-cancer
+Known: cancer Guess: cancer: 99.87%
+224x224_102192-8346-11025--cancer
+Known: cancer Guess: cancer: 99.40%
+224x224_102194-10323-29785-15-cancer
+Known: cancer Guess: cancer: 98.39%
+224x224_102194-10827-32634-0-healthy
+Known: healthy Guess: healthy: 79.92%
+224x224_102194-12134-31729-15-cancer
+Known: cancer Guess: cancer: 98.95%
+224x224_102194-12515-32642-25-cancer
+Known: cancer Guess: cancer: 99.10%
+224x224_102194-12518-34634-50-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102194-13428-35389-50-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102194-13583-34344-55-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102194-13942-41915-97-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-14089-41289-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-14166-35388-50-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102194-14240-34689-60-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102194-14419-30794-55-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102194-14792-35487-50-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102194-14883-34766-65-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102194-15066-33497-75-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-15117-41874-97-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102194-15166-40965-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-15908-38842-93-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-15978-31390-40-cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102194-16071-40383-98-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-16316-41205-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-16410-32286-50-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102194-16708-40233-98-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-17098-38710-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-17145-41838-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-17218-40868-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-17387-40196-92-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102194-18978-31890-20-cancer
+Known: cancer Guess: cancer: 99.88%
+224x224_102194-19626-31198-15-cancer
+Known: cancer Guess: cancer: 99.65%
+224x224_102194-21545-32752-35-cancer
+Known: cancer Guess: cancer: 99.85%
+224x224_102194-21848-30433-15-cancer
+Known: cancer Guess: cancer: 96.61%
+224x224_102194-22401-31161-35-cancer
+Known: cancer Guess: cancer: 99.85%
+224x224_102194-22616-32438-30-cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102194-23138-31038-30-cancer
+Known: cancer Guess: cancer: 99.71%
+224x224_102194-23383-32250-20-cancer
+Known: cancer Guess: cancer: 99.36%
+224x224_102194-23750-31554-15-cancer
+Known: cancer Guess: cancer: 99.69%
+224x224_102194-24526-38289-0-healthy
+Known: healthy Guess: healthy: 90.55%
+224x224_102194-25272-38829-0-healthy
+Known: healthy Guess: healthy: 97.13%
+224x224_102194-26183-32598-0-healthy
+Known: healthy Guess: healthy: 95.84%
+224x224_102194-26311-34392-0-healthy
+Known: healthy Guess: healthy: 86.04%
+224x224_102194-26583-33178-0-healthy
+Known: healthy Guess: cancer: 78.64%
+224x224_102194-27970-30812-0-healthy
+Known: healthy Guess: healthy: 97.79%
+224x224_102194-28842-37258-0-healthy
+Known: healthy Guess: healthy: 99.53%
+224x224_102194-29712-32183-0-healthy
+Known: healthy Guess: healthy: 98.93%
+224x224_102194-30033-33074-0-healthy
+Known: healthy Guess: healthy: 95.67%
+224x224_102194-30925-32632-0-healthy
+Known: healthy Guess: healthy: 90.72%
+224x224_102194-31186-31985-0-healthy
+Known: healthy Guess: healthy: 98.53%
+224x224_102195-10005-8930-0-healthy
+Known: healthy Guess: healthy: 98.08%
+224x224_102195-10160-9797-0-healthy
+Known: healthy Guess: healthy: 98.53%
+224x224_102195-10462-11436-0-healthy
+Known: healthy Guess: healthy: 84.49%
+224x224_102195-10765-12889-0-healthy
+Known: healthy Guess: healthy: 64.92%
+224x224_102195-10914-9276-0-healthy
+Known: healthy Guess: healthy: 96.56%
+224x224_102195-10917-12357-0-healthy
+Known: healthy Guess: healthy: 88.65%
+224x224_102195-1095-21753-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102195-1120-20705-20-cancer
+Known: cancer Guess: cancer: 99.43%
+224x224_102195-1163-22401-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102195-13514-7362-0-healthy
+Known: healthy Guess: healthy: 98.60%
+224x224_102195-13592-8749-0-healthy
+Known: healthy Guess: healthy: 98.83%
+224x224_102195-1388-17549-65-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-1425-19230-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-14276-8445-0-healthy
+Known: healthy Guess: healthy: 91.25%
+224x224_102195-15094-32291-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-15669-31555-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-16499-29344-25-cancer
+Known: cancer Guess: cancer: 99.85%
+224x224_102195-16636-32120-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-1680-22973-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102195-1933-17979-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-20434-6955-0-healthy
+Known: healthy Guess: healthy: 97.31%
+224x224_102195-2086-18805-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-2656-21546-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-29582-3319-0-healthy
+Known: healthy Guess: healthy: 94.17%
+224x224_102195-3059-31368-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-3065-17743-0-healthy
+Known: healthy Guess: healthy: 96.95%
+224x224_102195-3196-23250-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-3324-30620-35-cancer
+Known: cancer Guess: cancer: 99.72%
+224x224_102195-33671-4236-0-healthy
+Known: healthy Guess: healthy: 85.92%
+224x224_102195-3437-22619-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-3576-13476-0-healthy
+Known: healthy Guess: healthy: 97.77%
+224x224_102195-36188-4936-0-healthy
+Known: healthy Guess: healthy: 82.84%
+224x224_102195-36944-5046-0-healthy
+Known: healthy Guess: healthy: 77.65%
+224x224_102195-3746-32530-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-3782-24267-75-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-3798-31389-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-3816-14583-0-healthy
+Known: healthy Guess: healthy: 98.07%
+224x224_102195-4023-30205-35-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102195-4047-18418-0-healthy
+Known: healthy Guess: healthy: 92.15%
+224x224_102195-4219-25164-0-healthy
+Known: healthy Guess: healthy: 76.73%
+224x224_102195-4300-19693-0-healthy
+Known: healthy Guess: healthy: 83.96%
+224x224_102195-4362-23531-65-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-4421-32480-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-5055-33044-55-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102195-517-19119-65-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102195-5193-22253-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102195-5262-32304-85-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102195-5275-24125-30-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102195-5322-31330-85-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102195-5800-31861-25-cancer
+Known: cancer Guess: cancer: 99.31%
+224x224_102195-5810-24930-0-healthy
+Known: healthy Guess: healthy: 71.85%
+224x224_102195-601-15925-0-healthy
+Known: healthy Guess: healthy: 67.19%
+224x224_102195-6248-24128-25-cancer
+Known: cancer Guess: cancer: 99.82%
+224x224_102195-6308-31000-35-cancer
+Known: cancer Guess: cancer: 99.75%
+224x224_102195-6390-32595-15-cancer
+Known: cancer Guess: cancer: 99.54%
+224x224_102195-677-18081-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102195-6847-24077-45-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102195-7391-21925-0-healthy
+Known: healthy Guess: healthy: 93.94%
+224x224_102195-8002-9676-0-healthy
+Known: healthy Guess: healthy: 89.06%
+224x224_102195-801-24094-0-healthy
+Known: healthy Guess: healthy: 94.03%
+224x224_102195-8022-11573-0-healthy
+Known: healthy Guess: healthy: 69.11%
+224x224_102195-8234-13336-0-healthy
+Known: healthy Guess: healthy: 66.60%
+224x224_102195-8331-24017-0-healthy
+Known: healthy Guess: healthy: 96.96%
+224x224_102195-8346-12299-0-healthy
+Known: healthy Guess: healthy: 57.20%
+224x224_102195-8719-9361-0-healthy
+Known: healthy Guess: healthy: 90.47%
+224x224_102195-9859-22592-0-healthy
+Known: healthy Guess: healthy: 95.57%
+224x224_102197-11838-21006-60-cancer
+Known: cancer Guess: cancer: 99.79%
+224x224_102197-12086-21251--cancer
+Known: cancer Guess: cancer: 98.39%
+224x224_102197-12298-19516-20-cancer
+Known: cancer Guess: healthy: 48.01%
+224x224_102197-12538-19757--cancer
+Known: cancer Guess: cancer: 60.84%
+224x224_102197-12561-22364-30-cancer
+Known: cancer Guess: cancer: 98.22%
+224x224_102197-12816-22619--cancer
+Known: cancer Guess: cancer: 94.90%
+224x224_102197-13484-24929-25-cancer
+Known: cancer Guess: cancer: 72.08%
+224x224_102197-13511-22015-92-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102197-13741-25190--cancer
+Known: cancer Guess: cancer: 83.56%
+224x224_102197-13751-22271--cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102197-14177-22030-95-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102197-14418-22273--cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102197-14688-23759-40-cancer
+Known: cancer Guess: cancer: 70.24%
+224x224_102197-14942-24013--cancer
+Known: cancer Guess: cancer: 82.39%
+224x224_102197-15290-23471-65-cancer
+Known: cancer Guess: cancer: 97.63%
+224x224_102197-15566-23721--cancer
+Known: cancer Guess: cancer: 91.46%
+224x224_102197-15940-23911-50-cancer
+Known: cancer Guess: cancer: 81.12%
+224x224_102197-16181-24160--cancer
+Known: cancer Guess: cancer: 66.99%
+224x224_102197-16466-19062-97-cancer
+Known: cancer Guess: cancer: 99.75%
+224x224_102197-16524-23503-40-cancer
+Known: cancer Guess: cancer: 76.17%
+224x224_102197-16674-24207-50-cancer
+Known: cancer Guess: cancer: 84.29%
+224x224_102197-16716-19311--cancer
+Known: cancer Guess: cancer: 96.32%
+224x224_102197-16776-23753--cancer
+Known: cancer Guess: cancer: 76.17%
+224x224_102197-16922-24458--cancer
+Known: cancer Guess: cancer: 90.88%
+224x224_102197-16998-22647-40-cancer
+Known: cancer Guess: cancer: 54.97%
+224x224_102197-17081-18765-99-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102197-17244-22930--cancer
+Known: cancer Guess: cancer: 70.34%
+224x224_102197-17285-25254-60-cancer
+Known: cancer Guess: cancer: 99.24%
+224x224_102197-17329-19020--cancer
+Known: cancer Guess: cancer: 99.84%
+224x224_102197-17425-23566-65-cancer
+Known: cancer Guess: cancer: 96.97%
+224x224_102197-17529-25500--cancer
+Known: cancer Guess: cancer: 97.23%
+224x224_102197-17577-25795-25-cancer
+Known: cancer Guess: cancer: 63.09%
+224x224_102197-17673-23816--cancer
+Known: cancer Guess: cancer: 99.61%
+224x224_102197-17751-18844-99-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102197-17756-24265-60-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102197-17826-26030--cancer
+Known: cancer Guess: cancer: 60.92%
+224x224_102197-17996-24526--cancer
+Known: cancer Guess: cancer: 99.80%
+224x224_102197-17998-19094--cancer
+Known: cancer Guess: cancer: 99.81%
+224x224_102197-18063-25205-25%)-cancer
+Known: cancer Guess: healthy: 62.98%
+224x224_102197-18148-23694-50-cancer
+Known: cancer Guess: cancer: 98.03%
+224x224_102197-18286-25976-60-cancer
+Known: cancer Guess: cancer: 99.67%
+224x224_102197-18314-25453--cancer
+Known: cancer Guess: cancer: 58.57%
+224x224_102197-18391-23943--cancer
+Known: cancer Guess: cancer: 99.52%
+224x224_102197-18533-26228--cancer
+Known: cancer Guess: cancer: 98.69%
+224x224_102197-19068-19309-95-cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102197-19114-24127-90-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102197-19158-23541-60-cancer
+Known: cancer Guess: cancer: 98.93%
+224x224_102197-19317-19564--cancer
+Known: cancer Guess: cancer: 99.42%
+224x224_102197-19352-24901-95-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102197-19364-24376--cancer
+Known: cancer Guess: cancer: 99.88%
+224x224_102197-19450-23800--cancer
+Known: cancer Guess: cancer: 99.67%
+224x224_102197-19603-25154--cancer
+Known: cancer Guess: cancer: 99.45%
+224x224_102197-19834-24184-50-cancer
+Known: cancer Guess: cancer: 92.38%
+224x224_102197-20076-24433--cancer
+Known: cancer Guess: cancer: 75.41%
+224x224_102197-20280-20349-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102197-20530-20605--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102197-20540-21403-35-cancer
+Known: cancer Guess: cancer: 61.38%
+224x224_102197-20801-21649--cancer
+Known: cancer Guess: cancer: 83.93%
+224x224_102197-4039-23949-35-cancer
+Known: cancer Guess: cancer: 86.66%
+224x224_102197-4290-24196--cancer
+Known: cancer Guess: cancer: 57.32%
+224x224_102197-4550-20444-98-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102197-4679-24659-40-cancer
+Known: cancer Guess: healthy: 60.84%
+224x224_102197-4799-20689--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102197-4919-24902--cancer
+Known: cancer Guess: cancer: 83.95%
+224x224_102197-4958-26246-25-cancer
+Known: cancer Guess: healthy: 78.22%
+224x224_102197-5198-26497--cancer
+Known: cancer Guess: cancer: 60.52%
+224x224_102197-5301-24638-20-cancer
+Known: cancer Guess: cancer: 57.86%
+224x224_102197-5548-24885--cancer
+Known: cancer Guess: cancer: 83.44%
+224x224_102197-6791-20011-95-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102197-7038-20262--cancer
+Known: cancer Guess: cancer: 99.88%
+224x224_102197-7347-29800-25-cancer
+Known: cancer Guess: cancer: 96.16%
+224x224_102197-7607-30071--cancer
+Known: cancer Guess: cancer: 77.20%
+224x224_102197-7642-25694-15-cancer
+Known: cancer Guess: cancer: 66.72%
+224x224_102197-7890-25933--cancer
+Known: cancer Guess: cancer: 96.59%
+224x224_102197-8896-26451-10-cancer
+Known: cancer Guess: cancer: 63.12%
+224x224_102197-9145-26702--cancer
+Known: cancer Guess: cancer: 94.63%
+224x224_102197-9505-20801-99-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102197-9731-21436-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102197-9760-21053--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102197-9987-21692--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102198-10244-24811-25-healthy
+Known: healthy Guess: healthy: 98.19%
+224x224_102198-10520-16853-15-cancer
+Known: cancer Guess: cancer: 99.52%
+224x224_102198-10635-20462-5-cancer
+Known: cancer Guess: cancer: 91.03%
+224x224_102198-10704-25711-50-cancer
+Known: cancer Guess: cancer: 99.86%
+224x224_102198-11206-25071-25-cancer
+Known: cancer Guess: cancer: 68.62%
+224x224_102198-11357-17180-40-cancer
+Known: cancer Guess: cancer: 99.39%
+224x224_102198-11746-17988-20-cancer
+Known: cancer Guess: cancer: 99.89%
+224x224_102198-11982-24514-35-cancer
+Known: cancer Guess: cancer: 89.73%
+224x224_102198-12554-16947-5-cancer
+Known: cancer Guess: cancer: 96.98%
+224x224_102198-12628-24037-80-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102198-12732-19629-7-cancer
+Known: cancer Guess: cancer: 98.17%
+224x224_102198-12814-17654-30-cancer
+Known: cancer Guess: cancer: 97.01%
+224x224_102198-13002-20495-5-cancer
+Known: cancer Guess: cancer: 99.81%
+224x224_102198-13580-20424-7-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102198-13660-17194-3-cancer
+Known: cancer Guess: cancer: 96.89%
+224x224_102198-13686-18242-5-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102198-15297-18922-3-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102198-5554-17011-40-cancer
+Known: cancer Guess: cancer: 99.83%
+224x224_102198-5723-26219-25-healthy
+Known: healthy Guess: healthy: 97.37%
+224x224_102198-6122-16954-25-cancer
+Known: cancer Guess: cancer: 99.77%
+224x224_102198-6438-26143-25-healthy
+Known: healthy Guess: healthy: 99.21%
+224x224_102198-6977-17039-20-cancer
+Known: cancer Guess: cancer: 95.17%
+224x224_102198-8928-27247-15-cancer
+Known: cancer Guess: cancer: 59.84%
+224x224_102198-9633-25146-25-healthy
+Known: healthy Guess: healthy: 99.22%
+224x224_102198-9755-20643-10-cancer
+Known: cancer Guess: cancer: 97.09%
+224x224_102562-24907-6113-20-cancer
+Known: cancer Guess: cancer: 87.72%
+224x224_102562-25157-6352--cancer
+Known: cancer Guess: cancer: 86.65%
+224x224_102562-25882-39211-10-cancer
+Known: cancer Guess: cancer: 91.30%
+224x224_102562-26121-39462--cancer
+Known: cancer Guess: cancer: 83.49%
+224x224_102562-26301-38418-10-cancer
+Known: cancer Guess: cancer: 83.88%
+224x224_102562-26537-38668--cancer
+Known: cancer Guess: cancer: 93.00%
+224x224_102562-26906-38707-10-cancer
+Known: cancer Guess: cancer: 88.52%
+224x224_102562-27152-38960--cancer
+Known: cancer Guess: cancer: 91.81%
+224x224_102562-27452-5074-10-cancer
+Known: cancer Guess: cancer: 74.48%
+224x224_102562-27685-5322--cancer
+Known: cancer Guess: cancer: 88.61%
+224x224_102562-29137-5937-35-cancer
+Known: cancer Guess: cancer: 82.17%
+224x224_102562-29387-6182--cancer
+Known: cancer Guess: cancer: 83.18%
+224x224_102562-32024-23814-90-cancer
+Known: cancer Guess: cancer: 98.86%
+224x224_102562-32183-22965-90-cancer
+Known: cancer Guess: cancer: 99.16%
+224x224_102562-32270-24052--cancer
+Known: cancer Guess: cancer: 99.26%
+224x224_102562-32415-23209--cancer
+Known: cancer Guess: cancer: 98.95%
+224x224_102562-32461-26009-90-cancer
+Known: cancer Guess: cancer: 98.16%
+224x224_102562-32476-30332-50-cancer
+Known: cancer Guess: cancer: 99.30%
+224x224_102562-32587-32345-35-cancer
+Known: cancer Guess: cancer: 94.52%
+224x224_102562-32691-6471-50-cancer
+Known: cancer Guess: cancer: 98.51%
+224x224_102562-32702-26264--cancer
+Known: cancer Guess: cancer: 99.34%
+224x224_102562-32727-30577--cancer
+Known: cancer Guess: cancer: 99.58%
+224x224_102562-32831-32597--cancer
+Known: cancer Guess: cancer: 96.80%
+224x224_102562-32921-6728--cancer
+Known: cancer Guess: cancer: 99.14%
+224x224_102562-33102-5093-40-cancer
+Known: cancer Guess: cancer: 97.81%
+224x224_102562-33346-5346--cancer
+Known: cancer Guess: cancer: 96.39%
+224x224_102562-33383-25887-90-cancer
+Known: cancer Guess: cancer: 99.53%
+224x224_102562-33597-29985-40-cancer
+Known: cancer Guess: cancer: 96.60%
+224x224_102562-33620-26140--cancer
+Known: cancer Guess: cancer: 99.51%
+224x224_102562-33848-30235--cancer
+Known: cancer Guess: cancer: 93.95%
+224x224_102562-33876-18573-90-cancer
+Known: cancer Guess: cancer: 99.47%
+224x224_102562-33902-27319-90-cancer
+Known: cancer Guess: cancer: 99.42%
+224x224_102562-33938-17838-90-cancer
+Known: cancer Guess: cancer: 99.00%
+224x224_102562-33977-7600-10-cancer
+Known: cancer Guess: cancer: 96.18%
+224x224_102562-34122-18827--cancer
+Known: cancer Guess: cancer: 99.39%
+224x224_102562-34146-27575--cancer
+Known: cancer Guess: cancer: 99.33%
+224x224_102562-34166-18079--cancer
+Known: cancer Guess: cancer: 97.79%
+224x224_102562-34223-7855--cancer
+Known: cancer Guess: cancer: 95.19%
+224x224_102562-34562-30131-20-cancer
+Known: cancer Guess: cancer: 94.77%
+224x224_102562-34634-18762-90-cancer
+Known: cancer Guess: cancer: 99.45%
+224x224_102562-34797-30382--cancer
+Known: cancer Guess: cancer: 98.08%
+224x224_102562-34875-19015--cancer
+Known: cancer Guess: cancer: 98.77%
+224x224_102562-34912-31630-40-cancer
+Known: cancer Guess: cancer: 98.49%
+224x224_102562-35159-31876--cancer
+Known: cancer Guess: cancer: 95.81%
+224x224_102562-35520-27921-70-cancer
+Known: cancer Guess: cancer: 97.83%
+224x224_102562-35772-28169--cancer
+Known: cancer Guess: cancer: 95.56%
+224x224_102562-35890-23685-99-cancer
+Known: cancer Guess: cancer: 99.15%
+224x224_102562-36203-23946--cancer
+Known: cancer Guess: cancer: 97.34%
+224x224_102562-36361-22655-90-cancer
+Known: cancer Guess: cancer: 99.24%
+224x224_102562-36362-22656-99-cancer
+Known: cancer Guess: cancer: 99.26%
+224x224_102562-36604-22910--cancer
+Known: cancer Guess: cancer: 99.26%
+224x224_102562-37177-24961--cancer
+Known: cancer Guess: cancer: 98.99%
+224x224_102562-37349-23551-85-cancer
+Known: cancer Guess: cancer: 98.33%
+224x224_102562-37431-27649-15-cancer
+Known: cancer Guess: cancer: 87.57%
+224x224_102562-37593-23794--cancer
+Known: cancer Guess: cancer: 97.13%
+224x224_102562-37674-4678-25-cancer
+Known: cancer Guess: cancer: 92.83%
+224x224_102562-37680-27899--cancer
+Known: cancer Guess: cancer: 85.80%
+224x224_102562-37910-4913--cancer
+Known: cancer Guess: cancer: 90.10%
+224x224_102562-37947-17638-90-cancer
+Known: cancer Guess: cancer: 98.99%
+224x224_102562-38163-17835--cancer
+Known: cancer Guess: cancer: 99.09%
+224x224_102562-39053-4224-25-cancer
+Known: cancer Guess: cancer: 93.44%
+224x224_102562-39304-4469--cancer
+Known: cancer Guess: cancer: 89.22%
+224x224_102562-40327-16689-90-cancer
+Known: cancer Guess: cancer: 98.23%
+224x224_102562-40561-16913--cancer
+Known: cancer Guess: cancer: 96.97%
+224x224_102562-41766-9446-40-cancer
+Known: cancer Guess: cancer: 93.78%
+224x224_102562-41996-9685--cancer
+Known: cancer Guess: cancer: 94.93%
+224x224_102562-42260-10981-60-cancer
+Known: cancer Guess: cancer: 94.86%
+224x224_102562-42294-15103-90-cancer
+Known: cancer Guess: cancer: 98.57%
+224x224_102562-42506-11217--cancer
+Known: cancer Guess: cancer: 97.28%
+224x224_102562-42523-15335--cancer
+Known: cancer Guess: cancer: 98.84%
+224x224_102562-42848-25259-50-cancer
+Known: cancer Guess: cancer: 96.96%
+224x224_102562-43123-25515--cancer
+Known: cancer Guess: cancer: 94.49%
+224x224_102562-43248-11747-75-cancer
+Known: cancer Guess: cancer: 97.47%
+224x224_102562-43495-11975--cancer
+Known: cancer Guess: cancer: 92.63%
+224x224_102562-44834-15495-40-cancer
+Known: cancer Guess: cancer: 95.73%
+224x224_102562-45065-15747--cancer
+Known: cancer Guess: cancer: 97.30%
+224x224_102562-47208-19393-40-cancer
+Known: cancer Guess: cancer: 94.30%
+224x224_102562-47360-21136-70-cancer
+Known: cancer Guess: cancer: 98.75%
+224x224_102562-47436-19632--cancer
+Known: cancer Guess: cancer: 96.34%
+224x224_102562-47603-21392--cancer
+Known: cancer Guess: cancer: 86.17%
+224x224_102562-47946-16820-40-cancer
+Known: cancer Guess: cancer: 90.26%
+224x224_102562-48169-4294-40-cancer
+Known: cancer Guess: cancer: 95.62%
+224x224_102562-48199-17053--cancer
+Known: cancer Guess: cancer: 86.62%
+224x224_102562-48419-4539--cancer
+Known: cancer Guess: cancer: 94.71%
+224x224_102562-54414-17838-15-cancer
+Known: cancer Guess: cancer: 83.01%
+224x224_102562-54502-8840-20-cancer
+Known: cancer Guess: cancer: 91.08%
+224x224_102562-54661-18090--cancer
+Known: cancer Guess: cancer: 94.18%
+224x224_102562-54722-15232-10-cancer
+Known: cancer Guess: cancer: 83.49%
+224x224_102562-54723-19180-60-cancer
+Known: cancer Guess: cancer: 94.52%
+224x224_102562-54748-9086--cancer
+Known: cancer Guess: cancer: 88.96%
+224x224_102562-54967-15490--cancer
+Known: cancer Guess: cancer: 90.99%
+224x224_102562-54967-19432--cancer
+Known: cancer Guess: cancer: 92.79%
+224x224_102562-56117-21286-30-cancer
+Known: cancer Guess: cancer: 95.90%
+224x224_102562-56367-21534--cancer
+Known: cancer Guess: cancer: 93.22%
+224x224_102563-13348-12200-0-healthy
+Known: healthy Guess: healthy: 72.43%
+224x224_102563-14596-12809-0-healthy
+Known: healthy Guess: healthy: 77.66%
+224x224_102563-15770-12630-0-healthy
+Known: healthy Guess: healthy: 91.35%
+224x224_102563-20342-16982-0-healthy
+Known: healthy Guess: cancer: 51.71%
+224x224_102563-22280-20832-0-healthy
+Known: healthy Guess: healthy: 95.87%
+224x224_102563-22791-16251-0-healthy
+Known: healthy Guess: healthy: 60.73%
+224x224_102563-23387-19697-0-healthy
+Known: healthy Guess: cancer: 56.31%
+224x224_102563-35516-14810-0-healthy
+Known: healthy Guess: healthy: 63.19%
+224x224_102563-3939-21526-0-healthy
+Known: healthy Guess: healthy: 87.56%
+224x224_102563-39815-16495-0-healthy
+Known: healthy Guess: healthy: 95.54%
+224x224_102563-40027-6462-0-healthy
+Known: healthy Guess: healthy: 99.95%
+224x224_102563-40037-7472-0-healthy
+Known: healthy Guess: healthy: 98.51%
+224x224_102563-40102-14396-0-healthy
+Known: healthy Guess: healthy: 93.90%
+224x224_102563-42309-9124-0-healthy
+Known: healthy Guess: healthy: 97.69%
+224x224_102563-45016-8152-0-healthy
+Known: healthy Guess: healthy: 94.85%
+224x224_102563-46643-9007-0-healthy
+Known: healthy Guess: healthy: 99.86%
+224x224_102563-48961-6741-0-healthy
+Known: healthy Guess: healthy: 95.54%
+224x224_102563-51553-7387-0-healthy
+Known: healthy Guess: healthy: 94.42%
+224x224_102563-5388-21505-0-healthy
+Known: healthy Guess: healthy: 91.27%
+224x224_102563-6835-19391-0-healthy
+Known: healthy Guess: cancer: 54.60%
+224x224_102564-25899-14581-7-cancer
+Known: cancer Guess: cancer: 98.75%
+224x224_102564-25957-14020-75-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102564-26151-14842--cancer
+Known: cancer Guess: cancer: 94.39%
+224x224_102564-26237-14269--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102564-26480-14527-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102564-26523-14002-70-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102564-26713-14785--cancer
+Known: cancer Guess: cancer: 97.40%
+224x224_102564-26753-14243--cancer
+Known: cancer Guess: cancer: 99.77%
+224x224_102564-27087-13970-5-cancer
+Known: cancer Guess: cancer: 90.87%
+224x224_102564-27359-14238--cancer
+Known: cancer Guess: cancer: 83.97%
+224x224_102839-10018-18171--cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102839-10333-18010-30-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102839-10419-19623-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-10541-18990-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-10576-18268--cancer
+Known: cancer Guess: cancer: 99.79%
+224x224_102839-10666-19880--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-10742-17357-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-10797-19247--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-10993-20859-30-cancer
+Known: cancer Guess: cancer: 99.88%
+224x224_102839-10996-16350-20-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102839-11025-18232-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-11046-18893-75-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-11051-19749-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-11249-21101--cancer
+Known: cancer Guess: cancer: 99.40%
+224x224_102839-11272-18479--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-11289-19143--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-11405-15248-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102839-11472-17537-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-11638-20395-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-11680-18664-65-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-11766-19482-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-11776-16384-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-11826-16868-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-12072-15079-35-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102839-12076-17121--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-12164-17617-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-12289-20013-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-12320-15324--cancer
+Known: cancer Guess: cancer: 99.78%
+224x224_102839-12406-17878--cancer
+Known: cancer Guess: cancer: 94.06%
+224x224_102839-12473-16305-30-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102839-12510-16925-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-12712-21004-20-cancer
+Known: cancer Guess: cancer: 99.79%
+224x224_102839-12720-16554--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-12785-18186-30-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102839-12901-18857-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-12991-19794-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-13133-17295-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-13241-16634-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-13261-20074--cancer
+Known: cancer Guess: cancer: 99.34%
+224x224_102839-13386-17545--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-13386-18117-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-13513-19063-40-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-13555-15435-30-cancer
+Known: cancer Guess: cancer: 99.93%
+224x224_102839-13624-20223-25-cancer
+Known: cancer Guess: cancer: 99.95%
+224x224_102839-13634-18363--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-13751-17505-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-13762-19328--cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102839-13896-20492--cancer
+Known: cancer Guess: cancer: 99.50%
+224x224_102839-13908-16905-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-13967-18325-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-14171-17172--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-14239-19298-10-cancer
+Known: cancer Guess: cancer: 99.70%
+224x224_102839-15265-19074-20-cancer
+Known: cancer Guess: cancer: 99.53%
+224x224_102839-15511-19321--cancer
+Known: cancer Guess: cancer: 98.20%
+224x224_102839-15526-17152-10-cancer
+Known: cancer Guess: cancer: 99.63%
+224x224_102839-16940-13595-0-healthy
+Known: healthy Guess: healthy: 90.45%
+224x224_102839-24014-17826-0-healthy
+Known: healthy Guess: cancer: 63.93%
+224x224_102839-24558-18181-10-healthy
+Known: healthy Guess: cancer: 76.87%
+224x224_102839-24644-18922-0-healthy
+Known: healthy Guess: healthy: 53.93%
+224x224_102839-25259-18477-0-healthy
+Known: healthy Guess: cancer: 54.37%
+224x224_102839-26499-16462-25-cancer
+Known: cancer Guess: cancer: 99.84%
+224x224_102839-26778-16721--cancer
+Known: cancer Guess: cancer: 98.87%
+224x224_102839-27040-18670-20-cancer
+Known: cancer Guess: cancer: 99.58%
+224x224_102839-27310-18912--cancer
+Known: cancer Guess: cancer: 98.26%
+224x224_102839-27595-16834-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-27993-18609-40-cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102839-28186-13027-15-cancer
+Known: cancer Guess: cancer: 98.89%
+224x224_102839-28415-17722-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-28546-16934-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-28791-17189--cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102839-28887-18982-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-29014-18293-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-29075-17585-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102839-29144-19223--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-29267-18543--cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102839-29357-17828--cancer
+Known: cancer Guess: cancer: 99.89%
+224x224_102839-29507-19044-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-29724-16851-35-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-29733-19790-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-29908-17831-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-29979-20037--cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102839-29989-17101--cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102839-29997-14781-20-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102839-30154-18089--cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102839-30593-20069-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102839-30853-20332--cancer
+Known: cancer Guess: cancer: 99.92%
+224x224_102839-30855-17228-55-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-30948-14780-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-31477-17311-70-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-31507-14508-50-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-31588-20035-15-cancer
+Known: cancer Guess: cancer: 99.94%
+224x224_102839-31719-17561--cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-31778-14784--cancer
+Known: cancer Guess: cancer: 98.41%
+224x224_102839-31779-19080-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-32033-19311--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-32140-14068-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-32408-14319--cancer
+Known: cancer Guess: cancer: 98.72%
+224x224_102839-32449-18934-30-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-32466-19751-15-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102839-32608-17487-65-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-32794-13726-40-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-33025-18172-55-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-33272-18426--cancer
+Known: cancer Guess: cancer: 99.97%
+224x224_102839-33356-16724-85-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-33385-14846-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-33452-12986-25-cancer
+Known: cancer Guess: cancer: 99.86%
+224x224_102839-33701-13228--cancer
+Known: cancer Guess: cancer: 99.91%
+224x224_102839-33794-17272-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-34126-13524-40-cancer
+Known: cancer Guess: cancer: 99.90%
+224x224_102839-34236-16246-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-34312-14972-20-cancer
+Known: cancer Guess: cancer: 99.86%
+224x224_102839-34340-18143-30-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-35061-15198-25-cancer
+Known: cancer Guess: cancer: 99.79%
+224x224_102839-43019-10784-0-healthy
+Known: healthy Guess: healthy: 68.15%
+224x224_102839-49487-12165-0-healthy
+Known: healthy Guess: healthy: 62.13%
+224x224_102839-52103-8766-0-healthy
+Known: healthy Guess: healthy: 50.61%
+224x224_102839-7399-18508-40-cancer
+Known: cancer Guess: cancer: 99.98%
+224x224_102839-7655-18753--cancer
+Known: cancer Guess: cancer: 99.63%
+224x224_102839-7807-15001-0-healthy
+Known: healthy Guess: healthy: 76.49%
+224x224_102839-8370-19383-70-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-8653-20182-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-8898-18931-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-8916-16817-15-cancer
+Known: cancer Guess: cancer: 99.61%
+224x224_102839-8937-15862-10-cancer
+Known: cancer Guess: cancer: 99.41%
+224x224_102839-9027-17801-50-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-9441-19032-75-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-9482-18442-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-9525-19693-40-cancer
+Known: cancer Guess: cancer: 99.96%
+224x224_102839-9660-16230-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-9689-19292--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-9706-17351-90-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-9724-18699--cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-9756-17908-80-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102839-9774-19943--cancer
+Known: cancer Guess: cancer: 99.19%
+224x224_102839-9813-20879-60-cancer
+Known: cancer Guess: cancer: 99.99%
+224x224_102839-9987-19026-60-cancer
+Known: cancer Guess: cancer: 100.00%
+224x224_102840-11804-20080-1-cancer
+Known: cancer Guess: cancer: 79.15%
+224x224_102840-12053-20338--cancer
+Known: cancer Guess: cancer: 91.51%
+224x224_102840-12289-20654-10-cancer
+Known: cancer Guess: cancer: 72.99%
+224x224_102840-12538-20912--cancer
+Known: cancer Guess: cancer: 89.28%
+224x224_102840-12866-20835-3-cancer
+Known: cancer Guess: cancer: 91.26%
+224x224_102840-12987-28037-10-cancer
+Known: cancer Guess: cancer: 78.68%
+224x224_102840-13115-21103--cancer
+Known: cancer Guess: cancer: 64.78%
+224x224_102840-13235-28286--cancer
+Known: cancer Guess: cancer: 74.22%
+224x224_102840-13729-20376-2-cancer
+Known: cancer Guess: cancer: 91.42%
+224x224_102840-13788-13620-0-healthy
+Known: healthy Guess: healthy: 68.24%
+224x224_102840-13956-25132-10-cancer
+Known: cancer Guess: cancer: 74.41%
+224x224_102840-13982-20631--cancer
+Known: cancer Guess: cancer: 98.40%
+224x224_102840-14067-13879--healthy
+Known: healthy Guess: cancer: 76.11%
+224x224_102840-14092-14382-0-healthy
+Known: healthy Guess: cancer: 95.03%
+224x224_102840-14205-25380--cancer
+Known: cancer Guess: cancer: 76.71%
+224x224_102840-14335-14633--healthy
+Known: healthy Guess: cancer: 95.91%
+224x224_102840-14455-20613-5-cancer
+Known: cancer Guess: cancer: 92.37%
+224x224_102840-14589-25036-5-cancer
+Known: cancer Guess: cancer: 85.81%
+224x224_102840-14603-19937-2-cancer
+Known: cancer Guess: cancer: 99.39%
+224x224_102840-14721-20870--cancer
+Known: cancer Guess: cancer: 84.09%
+224x224_102840-14840-25290--cancer
+Known: cancer Guess: cancer: 86.16%
+224x224_102840-14850-20192--cancer
+Known: cancer Guess: cancer: 98.29%
+224x224_102840-15343-18114-1-cancer
+Known: cancer Guess: cancer: 97.04%
+224x224_102840-15481-27381-5-cancer
+Known: cancer Guess: cancer: 91.09%
+224x224_102840-15594-18367--cancer
+Known: cancer Guess: cancer: 94.65%
+224x224_102840-15731-27631--cancer
+Known: cancer Guess: cancer: 91.38%
+224x224_102840-15991-28240-2-cancer
+Known: cancer Guess: cancer: 73.36%
+224x224_102840-16038-19401-0-healthy
+Known: healthy Guess: healthy: 86.74%
+224x224_102840-16234-28489--cancer
+Known: cancer Guess: cancer: 82.65%
+224x224_102840-16276-20338-0-healthy
+Known: healthy Guess: healthy: 58.05%
+224x224_102840-16291-19642--healthy
+Known: healthy Guess: cancer: 95.74%
+224x224_102840-16526-20581--healthy
+Known: healthy Guess: cancer: 88.62%
+224x224_102840-16561-21511-0-healthy
+Known: healthy Guess: healthy: 69.34%
+224x224_102840-16812-21760--healthy
+Known: healthy Guess: cancer: 96.63%
+224x224_102840-17523-21035-2-cancer
+Known: cancer Guess: cancer: 97.99%
+224x224_102840-17768-21284--cancer
+Known: cancer Guess: cancer: 95.77%
+224x224_102840-19033-20227-0-healthy
+Known: healthy Guess: healthy: 46.95%
+224x224_102840-19227-21856-0-healthy
+Known: healthy Guess: healthy: 63.83%
+224x224_102840-19281-20478--healthy
+Known: healthy Guess: cancer: 68.69%
+224x224_102840-19480-22109--healthy
+Known: healthy Guess: cancer: 99.39%
+224x224_102840-20244-18558-0-healthy
+Known: healthy Guess: cancer: 99.93%
+224x224_102840-20500-18800--healthy
+Known: healthy Guess: cancer: 97.27%
+224x224_102840-21862-17894-0-healthy
+Known: healthy Guess: cancer: 77.72%
+224x224_102840-22118-18134--healthy
+Known: healthy Guess: cancer: 86.44%
+224x224_102840-23372-10633-0-healthy
+Known: healthy Guess: healthy: 95.60%
+224x224_102840-23545-15028-0-healthy
+Known: healthy Guess: cancer: 61.19%
+224x224_102840-23604-7891-0-healthy
+Known: healthy Guess: healthy: 99.67%
+224x224_102840-23644-10909--healthy
+Known: healthy Guess: healthy: 88.38%
+224x224_102840-23650-13142-0-healthy
+Known: healthy Guess: cancer: 89.79%
+224x224_102840-23793-15270--healthy
+Known: healthy Guess: cancer: 85.07%
+224x224_102840-23862-8160--healthy
+Known: healthy Guess: healthy: 94.42%
+224x224_102840-23899-13390--healthy
+Known: healthy Guess: healthy: 53.76%
+224x224_102840-24159-16499-0-healthy
+Known: healthy Guess: cancer: 87.36%
+224x224_102840-24408-16755--healthy
+Known: healthy Guess: cancer: 78.94%
+224x224_102840-2466-33364-2-cancer
+Known: cancer Guess: cancer: 84.56%
+224x224_102840-24664-6672-0-healthy
+Known: healthy Guess: healthy: 96.24%
+224x224_102840-24668-8053-0-healthy
+Known: healthy Guess: healthy: 97.81%
+224x224_102840-24912-8305--healthy
+Known: healthy Guess: healthy: 85.77%
+224x224_102840-24939-6951--healthy
+Known: healthy Guess: healthy: 84.53%
+224x224_102840-25428-15508-1-cancer
+Known: cancer Guess: cancer: 79.54%
+224x224_102840-25669-15757--cancer
+Known: cancer Guess: cancer: 83.10%
+224x224_102840-2725-33631--cancer
+Known: cancer Guess: cancer: 83.09%
+224x224_102840-27909-12307-1-cancer
+Known: cancer Guess: cancer: 71.89%
+224x224_102840-28054-9251-1-cancer
+Known: cancer Guess: cancer: 79.66%
+224x224_102840-28155-12571--cancer
+Known: cancer Guess: cancer: 92.81%
+224x224_102840-28304-9501--cancer
+Known: cancer Guess: cancer: 92.39%
+224x224_102840-3515-33658-2-cancer
+Known: cancer Guess: cancer: 74.90%
+224x224_102840-3738-33914--cancer
+Known: cancer Guess: cancer: 71.57%
+224x224_102840-4994-15146-2-cancer
+Known: cancer Guess: cancer: 67.05%
+224x224_102840-5246-15393--cancer
+Known: cancer Guess: cancer: 85.12%
+224x224_102840-5306-6223-2-cancer
+Known: cancer Guess: cancer: 91.17%
+224x224_102840-5333-15761-2-cancer
+Known: cancer Guess: cancer: 88.66%
+224x224_102840-5563-6483--cancer
+Known: cancer Guess: cancer: 83.95%
+224x224_102840-5594-16945-3-cancer
+Known: cancer Guess: cancer: 72.13%
+224x224_102840-5599-16016--cancer
+Known: cancer Guess: cancer: 71.52%
+224x224_102840-5847-17199--cancer
+Known: cancer Guess: cancer: 75.78%
+224x224_102840-5993-16011-1-cancer
+Known: cancer Guess: cancer: 75.06%
+224x224_102840-6061-6758-2-cancer
+Known: cancer Guess: cancer: 75.82%
+224x224_102840-6197-14844-2-cancer
+Known: cancer Guess: cancer: 80.43%
+224x224_102840-6239-16255--cancer
+Known: cancer Guess: cancer: 83.46%
+224x224_102840-6311-7008--cancer
+Known: cancer Guess: cancer: 54.25%
+224x224_102840-6439-15109--cancer
+Known: cancer Guess: cancer: 72.47%
+224x224_102840-6589-17616-2-cancer
+Known: cancer Guess: cancer: 74.94%
+224x224_102840-6846-17865--cancer
+Known: cancer Guess: cancer: 89.59%
+224x224_102840-6967-15644-5-cancer
+Known: cancer Guess: cancer: 87.72%
+224x224_102840-7039-16974-2-cancer
+Known: cancer Guess: cancer: 66.37%
+224x224_102840-7219-15886--cancer
+Known: cancer Guess: cancer: 82.24%
+224x224_102840-7290-17224--cancer
+Known: cancer Guess: cancer: 73.00%
+224x224_102840-7303-16403-10-cancer
+Known: cancer Guess: cancer: 85.57%
+224x224_102840-7551-16653--cancer
+Known: cancer Guess: cancer: 75.44%
+224x224_102840-7646-15818-10-cancer
+Known: cancer Guess: cancer: 93.45%
+224x224_102840-7662-10085-3-cancer
+Known: cancer Guess: cancer: 80.11%
+224x224_102840-7869-16061--cancer
+Known: cancer Guess: cancer: 79.48%
+224x224_102840-7900-10350--cancer
+Known: cancer Guess: cancer: 75.90%
+224x224_102840-8662-8902-40-cancer
+Known: cancer Guess: cancer: 88.88%
+224x224_102840-8908-9161--cancer
+Known: cancer Guess: cancer: 86.94%
+224x224_102840-9272-10987-0-healthy
+Known: healthy Guess: healthy: 93.45%
+224x224_102840-9290-5308-2-cancer
+Known: cancer Guess: cancer: 94.25%
+224x224_102840-9516-11237--healthy
+Known: healthy Guess: healthy: 84.05%
+224x224_102840-9542-5551--cancer
+Known: cancer Guess: cancer: 81.63%
+Wrong classificiation 66
+Correct classificiation 1321
+Success rate: 95.24%
